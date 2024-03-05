@@ -1,0 +1,28 @@
+{
+  "folders": [
+    {
+      "path": "."
+    },
+    {
+      "path": "../Java Programs"
+    },
+    {
+      "path": "../JavaScript"
+    },
+    {
+      "path": "../Python"
+    },
+    {
+      "path": "../TypeScript"
+    },
+    {
+      "path": "../Web Development Project"
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "iostream": "cpp",
+      "tuple": "cpp"
+    }
+  }
+}

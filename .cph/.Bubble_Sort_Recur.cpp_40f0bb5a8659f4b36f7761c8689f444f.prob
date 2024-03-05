@@ -1,0 +1,1 @@
+{"name":"Local: Bubble_Sort_Recur","url":"e:\\C++ Programs\\Bubble_Sort_Recur.cpp","tests":[{"id":1695748241992,"input":"10\n10 9 8 7 6 5 4 3 2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++ Programs\\Bubble_Sort_Recur.cpp","group":"local","local":true}

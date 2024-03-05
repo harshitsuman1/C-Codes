@@ -1,0 +1,1 @@
+{"name":"Local: Bi2Dec","url":"e:\\C++ Programs\\Bi2Dec.cpp","tests":[{"id":1643022044478,"input":"101100","output":""},{"id":1643022462610,"input":"101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++ Programs\\Bi2Dec.cpp","group":"local","local":true}

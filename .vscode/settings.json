@@ -1,0 +1,13 @@
+{
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "C_Cpp.vcFormat.space.aroundTernaryOperator": "ignore",
+  "files.associations": {
+    "iostream": "cpp",
+    "tuple": "cpp"
+  }
+}

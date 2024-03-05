@@ -1,0 +1,16 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "c:\\Users\\Harshit Suman\\Desktop\\JavaProg"
+	}
+],
+  "settings": {
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "C_Cpp.vcFormat.space.aroundTernaryOperator": "ignore"
+  }
+}
